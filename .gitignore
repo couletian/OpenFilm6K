@@ -1,6 +1,0 @@
-out/
-*.apk
-*.idsig
-debug.keystore
-__pycache__/
-.build
